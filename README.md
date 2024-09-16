@@ -15,4 +15,4 @@ I'm a passionate software engineer with over 7 years of experience in front-end 
 
 💡 **Prefer library development and Developer Relations (DevRel).**
 
-Let's connect and build something amazing together!
+Contact me via email [better.salmon@proton.me](mailto:better.salmon@proton.me). Let's connect and build something amazing together!
